@@ -1,0 +1,14 @@
+{
+  "name": "workstamper",
+  "version": "1.0.0",
+  "description": "Stamp your everywork quickly with time when requested, time to finish (ETD, ETA)",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "JakkeLab",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^26.0.0"
+  }
+}
